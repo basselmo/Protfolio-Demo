@@ -300,6 +300,17 @@ footer {
   .about p {
     width: 90%;
   }
+
+  .home-content {
+    display: flex;
+    flex-wrap: wrap-reverse;
+  }
+
+  .home img {
+    border-radius: 50%;
+    height: 200px;
+    width: 200px;
+  }
 }
 
 .reveal {
