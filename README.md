@@ -1,5 +1,3 @@
-# Protfolio-Demo
-
 # 🚀 Modern Personal Portfolio
 
 A sleek, modern, and fully responsive personal portfolio website built from scratch. This project showcases my skills in web development, design aesthetics, and interactive user experiences.
@@ -24,3 +22,4 @@ Check out the live website here:
 
 
 Developed with passion by **Bassel** | Combining technical precision with creative design.
+
